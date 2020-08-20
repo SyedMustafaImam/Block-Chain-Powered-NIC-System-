@@ -17,4 +17,4 @@ You need *[Net beans Ide](https://netbeans.org/downloads/6.1/index.html)* to run
 ## Authors
 
 1. Syed Mustafa Imam
-2. [Hirdesh Kumar](https://www.linkedin.com/in/hirdesh-kumar-3482781a1/)
+2. Hirdesh Kumar
